@@ -1,18 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ayşe Nur Yılmaz</h1>
-<h3 align="center">I am currently in the early stages of my software engineering education, which has introduced me to the fundamental concepts of programming and security.</h3>
+# dapjeongneo-aysenur
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dapjeongneo-aysenur" alt="dapjeongneo-aysenur" /></a> </p>
+> Memorable developer positioning.
 
-- 🌱 I’m currently learning **fundamentals of cybersecurity and programming**
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aysenuryilmaz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aysenuryilmaz7" height="30" width="40" /></a>
+## Header
+> Editing this section in the inspector.
+Hi, I'm **dapjeongneo-aysenur**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur social section" />
+  </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dapjeongneo-aysenur&show_icons=true&locale=en" alt="dapjeongneo-aysenur" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dapjeongneo-aysenur&" alt="dapjeongneo-aysenur" /></p>
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
