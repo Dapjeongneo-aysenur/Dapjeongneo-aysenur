@@ -1,57 +1,19 @@
-# dapjeongneo-aysenur
+<pre class="notranslate"><code class="language-bash">$ whoami
+ayse.nur_yilmaz
 
-> Memorable developer positioning.
+$ cat flag.txt
+Qi5TYy4gaW4gU29mdHdhcmUgRW5naW5lZXJpbmcgQCBIYXNhbiBLYWx5b25jdSBVbml2ZXJzaXR5CkludGVyZXN0czoKLSBDeWJlcnNlY3VyaXR5Ci0gQWxnb3JpdGhtcwotIFF1YW50dW0gY29tcHV0aW5nCkxhbmd1YWdlczogVFIsIEVOCg==
 
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
+$ ./verify_integrity.sh
+[+] Hashing profile... [OK]
+[+] Decrypting status... [LOCKED - User interaction required]
 
-## Header
-> Editing this section in the inspector.
-Hi, I'm **dapjeongneo-aysenur**. This README is tuned for **personal brand** with a GitHub visual system.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur hero section" />
-  </picture>
-</p>
-## About Me
-Shapes the short profile story and positioning.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur about section" />
-  </picture>
-</p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur stack section" />
-  </picture>
-</p>
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur stats section" />
-  </picture>
-</p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur projects section" />
-  </picture>
-</p>
-## Connect
-Contact and social links will appear here.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=dapjeongneo-aysenur&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=dapjeongneo-aysenur&theme=github-dark" alt="dapjeongneo-aysenur social section" />
-  </picture>
-</p>
+$ ls publications/
+<a href="https://ieeexplore.ieee.org/document/11028850">resilient_graph_partitioning_quantum_networks.pdf</a>  # IEEE FNWF 2024, co-author
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
+$ echo $NEXT_STEP
+M.Sc. Cybersecurity, Saarbrücken
+
+$ echo "TmljZSB0byBtZWV0IHlvdSE=" | base64 -d</code></pre>
+
+🌐 [LinkedIn](https://www.linkedin.com/in/aysenuryilmaz7/) · 🛡️ [TryHackMe](https://tryhackme.com/p/dapjeongneo.aysenur) 
